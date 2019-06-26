@@ -21,7 +21,7 @@
 // ];
 
 const siteConfig = {
-  title: "", // Title for your website.
+  title: "Cradle", // Title for your website.
   tagline: "A schema pipeline",
   url: "https://cradlejs.dev", // Your website URL
   baseUrl: "/", // Base URL for your project */
@@ -47,14 +47,14 @@ const siteConfig = {
   // If you have users set above, you add it here:
 
   /* path to images for header/footer */
-  headerIcon: "img/cradle-header.svg",
+  headerIcon: "img/cradle-logo-white.svg",
   footerIcon: "img/cradle-logo.svg",
   favicon: "img/favicon.ico",
 
   /* Colors for website */
   colors: {
-    primaryColor: "#00aaff",
-    secondaryColor: "#ff5500"
+    primaryColor: "#FF5500",
+    secondaryColor: "#e66b2e"
   },
 
   /* Custom fonts for website */
